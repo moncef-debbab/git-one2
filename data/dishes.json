@@ -1,0 +1,607 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "salad",
+            "dishes": [
+                {
+                    "id": 1,
+                    "name": "Caesar Salad",
+                    "img": "firstSalad",
+                    "rated": 4.5,
+                    "amount": 0,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 9.99
+                },
+                {
+                    "id": 2,
+                    "name": "Sea Salad",
+                    "img": "secondSalad",
+                    "amount": 0,
+                    "rated": 4.5,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 9.99
+                },
+                {
+                    "id": 3,
+                    "name": "Greek Salad",
+                    "img": "thirdSalad",
+                    "amount": 0,
+                    "rated": 3.8,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.99
+                },
+
+                {
+                    "id": 4,
+                    "name": "Caprese Salad",
+                    "img": "fourthSalad",
+                    "amount": 0,
+                    "rated": 3.8,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.99
+                },
+
+                {
+                    "id": 5,
+                    "name": "Waldorf Salad",
+                    "img": "fifthSalad",
+                    "amount": 0,
+                    "rated": 3.8,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.99
+                },
+
+                {
+                    "id": 6,
+                    "name": "Nicoise Salad",
+                    "img": "sixthSalad",
+                    "amount": 0,
+                    "rated": 3.8,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.99
+                },
+
+                {
+                    "id": 7,
+                    "amount": 0,
+                    "name": "Spinach Salad",
+                    "img": "seventhSalad",
+
+                    "rated": 3.8,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.99
+                },
+
+                {
+                    "id": 8,
+                    "name": "Kale Salad",
+                    "amount": 0,
+                    "rated": 3.8,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.99
+                },
+
+                {
+                    "id": 9,
+                    "name": "Quinoa Salad",
+                    "amount": 0,
+                    "rated": 3.8,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.99
+                },
+
+                {
+                    "id": 10,
+                    "amount": 0,
+                    "name": "Panzanella Salad",
+
+                    "rated": 3.8,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.99
+                },
+
+                {
+                    "amount": 0,
+                    "id": 11,
+                    "name": "Asian Slaw",
+                    "rated": 3.8,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.99
+                },
+
+                {
+                    "amount": 0,
+                    "id": 12,
+                    "name": "Tabbouleh Salad",
+                    "rated": 3.8,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.99
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "name": "Rolls",
+            "dishes": [
+                {
+                    "id": 1,
+                    "name": "Spring Roll",
+                    "img": "firstroll",
+                    "amount": 0,
+                    "rated": 4.5,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 5.5
+                },
+                {
+                    "id": 2,
+                    "name": "Egg Roll",
+                    "img": "secondroll",
+                    "amount": 0,
+                    "rated": 4.2,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 4.75
+                },
+                {
+                    "id": 3,
+                    "name": "Vegetable Roll",
+                    "img": "thirdroll",
+                    "amount": 0,
+                    "rated": 4.0,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 5.0
+                },
+                {
+                    "id": 4,
+                    "name": "Sushi Roll",
+                    "img": "fourthroll",
+                    "rated": 4.8,
+                    "amount": 0,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.0
+                },
+                {
+                    "id": 5,
+                    "name": "California Roll",
+                    "img": "fifthroll",
+                    "amount": 0,
+                    "rated": 4.7,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 10.5
+                },
+                {
+                    "id": 6,
+                    "name": "Avocado Roll",
+                    "img": "sixthroll",
+                    "amount": 0,
+                    "rated": 4.4,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 9.0
+                },
+                {
+                    "id": 7,
+                    "name": "Dragon Roll",
+                    "amount": 0,
+                    "rated": 4.9,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 13.0
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "name": "Deserts",
+            "dishes": [
+                {
+                    "id": 1,
+                    "name": "Chocolate Cake",
+                    "img": "firstDesert",
+                    "amount": 0,
+                    "rated": 4.9,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 7.0
+                },
+                {
+                    "id": 2,
+                    "name": "Cheesecake",
+                    "img": "secondDesert",
+                    "amount": 0,
+                    "rated": 4.8,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 6.5
+                },
+                {
+                    "id": 3,
+                    "name": "Tiramisu",
+                    "img": "thirdDesert",
+                    "amount": 0,
+                    "rated": 4.7,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 8.0
+                },
+                {
+                    "id": 4,
+                    "name": "Brownie Sundae",
+                    "img": "fourthDesert",
+                    "amount": 0,
+                    "rated": 4.6,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 6.75
+                },
+                {
+                    "id": 5,
+                    "name": "Panna Cotta",
+                    "img": "fifthDesert",
+                    "amount": 0,
+                    "rated": 4.8,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 7.5
+                },
+                {
+                    "id": 6,
+                    "name": "Apple Pie",
+                    "img": "sixthDesert",
+                    "amount": 0,
+                    "rated": 4.5,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 5.25
+                },
+                {
+                    "id": 7,
+                    "name": "Lemon Tart",
+                    "amount": 0,
+                    "rated": 4.7,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 6.0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sandwish",
+            "dishes": [
+                {
+                    "id": 1,
+                    "name": "Mashed Potatoes",
+                    "img": "firstSandwish",
+                    "amount": 0,
+                    "rated": 4.3,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 4.0
+                },
+                {
+                    "id": 2,
+                    "name": "Pureed Carrots",
+                    "img": "secondSandwish",
+                    "amount": 0,
+                    "rated": 4.0,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 3.5
+                },
+                {
+                    "id": 3,
+                    "name": "Pureed Peas",
+                    "img": "thirdSandwish",
+                    "amount": 0,
+                    "rated": 4.2,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 3.75
+                },
+                {
+                    "id": 4,
+                    "name": "Sweet Potato Puree",
+                    "img": "fourthSandwish",
+                    "amount": 0,
+                    "rated": 4.5,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 4.25
+                },
+                {
+                    "id": 5,
+                    "name": "Pumpkin Puree",
+                    "rated": 4.4,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 3.8
+                },
+                {
+                    "id": 6,
+                    "name": "Cauliflower Puree",
+                    "rated": 4.1,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 3.9
+                },
+                {
+                    "id": 7,
+                    "name": "Butternut Squash Puree",
+                    "rated": 4.6,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 4.2
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Cake ",
+            "dishes": [
+                {
+                    "id": 1,
+                    "name": "Grilled Vegetables",
+                    "rated": 4.7,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 7.0
+                },
+                {
+                    "id": 2,
+                    "name": "Steamed Broccoli",
+                    "rated": 4.4,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 6.5
+                },
+                {
+                    "id": 3,
+                    "name": "Sauteed Spinach",
+                    "rated": 4.5,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 6.75
+                },
+                {
+                    "id": 4,
+                    "name": "Roasted Brussels Sprouts",
+                    "rated": 4.6,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 7.25
+                },
+                {
+                    "id": 5,
+                    "name": "Glazed Carrots",
+                    "amount": 0,
+
+                    "rated": 4.3,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 6.0
+                },
+                {
+                    "id": 6,
+                    "name": "Stir-Fried Green Beans",
+                    "amount": 0,
+
+                    "rated": 4.5,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 6.8
+                },
+                {
+                    "id": 7,
+                    "name": "Baked Asparagus",
+                    "amount": 0,
+
+                    "rated": 4.7,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 7.5
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Pure Veg",
+            "dishes": [
+                {
+                    "id": 1,
+                    "name": "Spaghetti Carbonara",
+                    "rated": 4.8,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.0
+                },
+                {
+                    "id": 2,
+                    "name": "Fettuccine Alfredo",
+                    "rated": 4.7,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 11.5
+                },
+                {
+                    "id": 3,
+                    "name": "Penne Arrabbiata",
+                    "rated": 4.6,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 10.75
+                },
+                {
+                    "id": 4,
+                    "name": "Lasagna",
+                    "rated": 4.9,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 13.0
+                },
+                {
+                    "id": 5,
+                    "name": "Macaroni and Cheese",
+                    "rated": 4.5,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 9.5
+                },
+                {
+                    "id": 6,
+                    "name": "Ravioli",
+                    "rated": 4.6,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 11.75
+                },
+                {
+                    "id": 7,
+                    "name": "Pesto Pasta",
+                    "rated": 4.7,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 10.0
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Pasta",
+            "dishes": [
+                {
+                    "id": 1,
+                    "name": "Pad Thai",
+                    "rated": 4.8,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 11.0
+                },
+                {
+                    "id": 2,
+                    "name": "Lo Mein",
+                    "rated": 4.6,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 10.5
+                },
+                {
+                    "id": 3,
+                    "name": "Ramen",
+                    "rated": 4.7,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.0
+                },
+                {
+                    "id": 4,
+                    "name": "Udon Noodles",
+                    "rated": 4.5,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 11.75
+                },
+                {
+                    "id": 5,
+                    "name": "Soba Noodles",
+                    "amount": 0,
+
+                    "rated": 4.4,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 10.0
+                },
+                {
+                    "id": 6,
+                    "name": "Glass Noodles",
+                    "rated": 4.3,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 9.75
+                },
+                {
+                    "id": 7,
+                    "name": "Chow Mein",
+                    "amount": 0,
+
+                    "rated": 4.6,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 10.5
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Noodles",
+            "dishes": [
+                {
+                    "id": 1,
+                    "name": "Pad Thai",
+                    "rated": 4.8,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 11.0
+                },
+                {
+                    "id": 2,
+                    "name": "Lo Mein",
+                    "amount": 0,
+
+                    "rated": 4.6,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 10.5
+                },
+                {
+                    "id": 3,
+                    "name": "Ramen",
+                    "rated": 4.7,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 12.0
+                },
+                {
+                    "id": 4,
+                    "name": "Udon Noodles",
+                    "amount": 0,
+
+                    "rated": 4.5,
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 11.75
+                },
+                {
+                    "id": 5,
+                    "name": "Soba Noodles",
+                    "rated": 4.4,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 10.0
+                },
+                {
+                    "id": 6,
+                    "name": "Glass Noodles",
+                    "rated": 4.3,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 9.75
+                },
+                {
+                    "id": 7,
+                    "name": "Chow Mein",
+                    "rated": 4.6,
+                    "amount": 0,
+
+                    "detail": "food provides essential nutrations for overall health and well-being",
+                    "price": 10.5
+                }
+            ]
+        }
+    ]
+}
